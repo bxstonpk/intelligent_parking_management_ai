@@ -1,5 +1,5 @@
 # ingore pretained model
-pretrained_model/
+pretrained_models/
 
 #ingore cache
 __pycache__/
