@@ -1,0 +1,13 @@
+# ingore pretained model
+pretrained_model/
+
+#ingore cache
+__pycache__/
+
+#ingore image test
+image/
+
+# Ignore large files
+*.zip
+*.tar.gz
+*.mp4
